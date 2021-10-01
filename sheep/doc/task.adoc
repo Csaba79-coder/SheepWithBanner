@@ -12,3 +12,5 @@ after you created you own banner, under resource just create a banner.txt copy i
 
 '''
 Is that so easy? Yeap!
+
+you can change simply the color of the letters, pics, or the background!
