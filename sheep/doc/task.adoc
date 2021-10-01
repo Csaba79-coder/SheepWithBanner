@@ -1,0 +1,14 @@
+= Custom Banner Generator instead of spring logo at the beginning of your project!!!
+
+use this website (or write in google search: spring boot custom banner generator):
+
+https://devops.datenkollektiv.de/banner.txt/index.html
+
+if it contains not only ascii letters:
+
+https://patorjk.com/software/taag/#p=display&f=Big&t=B%C3%A1r%C3%A1ny
+
+after you created you own banner, under resource just create a banner.txt copy in it, save ... and check it out! ... lol.
+
+'''
+Is that so easy? Yeap!
